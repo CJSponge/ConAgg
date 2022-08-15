@@ -1,0 +1,1 @@
+let news=document.getElementById("content").innerHTML;
